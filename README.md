@@ -10,9 +10,20 @@ http://install.anastasiy.com/
 
 
 ## インストール
-基本的にはdmgファイルをダウンロードすると必要なもの一式が入手できます。ディスクイメージの中にはプラグインであるaipファイルとUIのインストーラーであるzxpが存在します。aipはアプリケーションフォルダ内のPlug-insフォルダにコピーします。zxpはユーティリティー（http://install.anastasiy.com/ ）を利用するのが楽です。zxpファイルは7z形式の圧縮ファイルですからStuffIt Expanderなどを利用すると解凍可能です。それを以下のフォルダに移動することでもインストール可能です。
+CC2017の場合dmgファイルをダウンロードすると必要なもの一式が入手できます。ディスクイメージの中にはプラグインであるaipファイルとUIのインストーラーであるzxpが存在します。aipはアプリケーションフォルダ内のPlug-insフォルダにコピーします。zxpはユーティリティー（http://install.anastasiy.com/ ）を利用するのが楽です。zxpファイルは7z形式の圧縮ファイルですからStuffIt Expanderなどを利用すると解凍可能です。それを以下のフォルダに移動することでもインストール可能です。
 
 ~/Library/Apprication support/Adobe/CEP/extensions/
+
+CC2018の場合
+まずユーザーインターフェースからインストールします。
+User Interface for AI CC (ver.22)
+User Interface Extension for Workspace Switcher Adobe Illustrator CC (ver.22)
+Here is the same extension, you can use. Extract zip and move to ~/Library/Application Support/Adobe/CEP/extensions/
+or install zxp using Anastasiy's Extension Manager.
+
+ver.22用のユーザーインターフェースエクステンションです。zip、zxp共に同一の内容となっています。お好みでダウンロードしてインストールしてください。zxpを利用する場合はhttp://install.anastasiy.com を利用すると良いでしょう。zipの場合は解凍してそのフォルダを以下のフォルダに移動してください。
+~/Library/Application Support/Adobe/CEP/extensions/
+
 
 
 ## How to Use
