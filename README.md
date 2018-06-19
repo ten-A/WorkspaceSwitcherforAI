@@ -23,9 +23,10 @@ or install zxp using Anastasiy's Extension Manager.
 まずユーザーインターフェース用エクステンションをダウンロードします。  
 workspaceSwitcherAI_forv22.zipまたはworkspaceSwitcherAI_forv22.zxp  
 両方共ver.22用のユーザーインターフェースエクステンションです。zip、zxp共に同一の内容となっています。お好みでダウンロードしてインストールしてください。zxpを利用する場合はhttp://install.anastasiy.com を利用すると良いでしょう。zipの場合は解凍してそのフォルダを以下のフォルダに移動してください。  
-Here is the same extension, you can use. Extract zip and move to ~/Library/Application Support/Adobe/CEP/extensions/  
+  
 ~/Library/Application Support/Adobe/CEP/extensions/  
-
+  
+  
 Download WorkspaceSwitcher.aip.zip and Extract it, move it to the Illustrators Plug-ins folder.  
 
 次にプラグインをインストールします。WorkspaceSwitcher.aip.zipをダウンロードし解凍します。IllustratorCC（ver.22）アプリケーションフォルダー内のPlug-insフォルダへ移動してください。
