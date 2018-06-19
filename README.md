@@ -10,7 +10,7 @@ http://install.anastasiy.com/
 
 
 ## インストール
-基本的にはdmgファイルをダウンロードすると必要なもの一式が入手できます。ディスクイメージの中にはプラグインであるaipファイルとUIのインストーラーであるzxpが存在します。aipはアプリケーションフォルダ内のPlug-insフォルダにコピーします。zxpはユーティリティー（http://install.anastasiy.com/）を利用するのが楽です。zxpファイルは7z形式の圧縮ファイルですからStuffIt Expanderなどを利用すると解凍可能です。それを以下のフォルダに移動することでもインストール可能です。
+基本的にはdmgファイルをダウンロードすると必要なもの一式が入手できます。ディスクイメージの中にはプラグインであるaipファイルとUIのインストーラーであるzxpが存在します。aipはアプリケーションフォルダ内のPlug-insフォルダにコピーします。zxpはユーティリティー（http://install.anastasiy.com/ ）を利用するのが楽です。zxpファイルは7z形式の圧縮ファイルですからStuffIt Expanderなどを利用すると解凍可能です。それを以下のフォルダに移動することでもインストール可能です。
 
 ~/Library/Apprication support/Adobe/CEP/extensions/
 
