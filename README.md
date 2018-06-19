@@ -10,13 +10,14 @@ http://install.anastasiy.com/
 
 
 ## インストール
-CC2017の場合dmgファイルをダウンロードすると必要なもの一式が入手できます。ディスクイメージの中にはプラグインであるaipファイルとUIのインストーラーであるzxpが存在します。aipはアプリケーションフォルダ内のPlug-insフォルダにコピーします。zxpはユーティリティー（http://install.anastasiy.com/ ）を利用するのが楽です。zxpファイルは7z形式の圧縮ファイルですからStuffIt Expanderなどを利用すると解凍可能です。それを以下のフォルダに移動することでもインストール可能です。  
+CC2017の場合dmg  
+ファイルをダウンロードすると必要なもの一式が入手できます。ディスクイメージの中にはプラグインであるaipファイルとUIのインストーラーであるzxpが存在します。aipはアプリケーションフォルダ内のPlug-insフォルダにコピーします。zxpはユーティリティー（http://install.anastasiy.com/ ）を利用するのが楽です。zxpファイルは7z形式の圧縮ファイルですからStuffIt Expanderなどを利用すると解凍可能です。それを以下のフォルダに移動することでもインストール可能です。  
 
-~/Library/Apprication support/Adobe/CEP/extensions/
+~/Library/Apprication support/Adobe/CEP/extensions/  
 
 CC2018の場合  
 Download workspaceSwitcherAI_forv22.zip or workspaceSwitcherAI_forv22.zxp.  
-These are same extension you can use. Extract zip and move to ~/Library/Application Support/Adobe/CEP/extensions/
+These are same extension you can use. Extract zip and move to ~/Library/Application Support/Adobe/CEP/extensions/ 
 or install zxp using Anastasiy's Extension Manager.  
 
 まずユーザーインターフェース用エクステンションをダウンロードします。  
@@ -29,7 +30,7 @@ Download WorkspaceSwitcher.aip.zip and Extract it, move it to the Illustrators P
 
 次にプラグインをインストールします。WorkspaceSwitcher.aip.zipをダウンロードし解凍します。IllustratorCC（ver.22）アプリケーションフォルダー内のPlug-insフォルダへ移動してください。
 
-
+  
 ## How to Use
 Let's create workspaces for text editing, art editing, path editing, etc.  
 After AI startup Window> Extension> Select Workspace Switcher. Since the panel opens, select Preference from the submenu of the panel and open the initial setting panel.  
